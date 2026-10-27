@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DGeXAQPT.js";var t=e(),n=()=>(0,t.jsx)(`p`,{className:`p-6 text-muted-foreground`,children:`Couldn't load the activity log.`});export{n as errorComponent};
